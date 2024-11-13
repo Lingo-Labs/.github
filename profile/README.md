@@ -1,8 +1,2 @@
 # 🦉 Lingo Labs
-
-Product studio experimenting with onchain primitives in language learning games that go viral!
-
-Creators of:
-- Translate Bot, one of the earliest translation tools on Warpcast
-- Castlingo, an AI-powered Chrome extension for language learning on Warpcast
-- Lingocaster, a language learning game built on Solana + PYUSD + Portal MPC Wallet + Farcaster
+<img width="1293" alt="Thumbnail" src="https://github.com/user-attachments/assets/6aecab55-70b5-43b9-aaf5-54f2ca7fa2d7">
